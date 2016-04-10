@@ -1,7 +1,7 @@
 #coding: utf-8
 import os
 
-
+#Algoritmo para calcular se o ano é bissexto
 def bix(ano):
 	if ano <= 0:
 		print('\nO ANO DEVE SER MAIOR QUE ZERO\n')
